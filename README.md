@@ -1,11 +1,11 @@
 <p align="center">
-  <h1 align="center"><a href="https://codewonders.dev">I am Riccardo Inghilleri</a></h1>
-  <p align="center"> MSc Student in Computer Science and Engineering at Polytechnic University of Milan | Web Designer and Developer | Blockchain Enthusiast</p>
+  <h1 align="center"><a href="https://linkedin.com/in/riccardoinghilleri">I am Riccardo Inghilleri</a></h1>
+  <p align="center">MSc Student in Computer Science and Engineering at Polytechnic University of Milan | Web Designer and Developer | Blockchain Enthusiast</p>
 </p>
 
 <p align="center">
   <!--<a href="https://riccardoinghilleri.com">Web Site</a> | -->
-  <a href="https://instagram.com/riccardo_inghilleri">Instagram</a> |
+  <a href="https://instagram.com/riccardoinghilleri">Instagram</a> |
   <a href="https://linkedin.com/in/riccardoinghilleri">LinkedIn</a>
 </p>
 
