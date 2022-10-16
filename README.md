@@ -20,6 +20,9 @@
 <br />
 
 ## Stats
-
+<a href="https://github.com/riccardoinghilleri">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=riccardoinghilleri&show_icons=true&bg_color=0d1117&layout=compact&border_color=0d1117&icon_color=00d26a&title_color=00d26a&text_color=ffffff" />
+</a>
+<a href="https://github.com/riccardoinghilleri">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardoinghilleri&layout=compact&langs_count=8&bg_color=0d1117&border_color=0d1117&icon_color=00d26a&title_color=00d26a&text_color=ffffff" />
+</a>
