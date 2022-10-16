@@ -11,7 +11,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
 
 🔭 I am 22 years old and I am a Computer Science and Engineering student. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques is very important to me. I am passionate about the technology behind blockchain, especially its possible applications in our daily lives, for example in the field of finance; I am also fond of Web Design and Development and problem solving, in particular elegant solutions to problems of interest.
 
