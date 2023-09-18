@@ -13,7 +13,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
 
-🔭 I am 22 years old and a Computer Science and Engineering student. In addition to being a student, I am a Co-Founder and the Chief Technology Officer (CTO) at Pharme, a digital and integrated platform to check availability and book the pick-up of drugs. I enjoy being challenged and engaging in projects that require working outside my comfort zone and learning new programming languages and development techniques. I am passionate about the technology behind the Blockchain, especially its possible applications in our daily lives, for instance, in finance; I am also fond of Web Design and Development and problem-solving, and in particular, I like to find elegant solutions to problems of interest.
+🔭 At 23, I am navigating the dynamic landscape of Computer Science and Engineering as both a student and a tech entrepreneur. I proudly serve as the Co-Founder and Chief Technology Officer (CTO) of Pharme, a pioneering digital platform streamlining drug availability checks and facilitating pick-up bookings.
+
+While my academic and entrepreneurial journey has exposed me to various facets of technology, lately, I have found myself drawn towards computer security, a discipline that intrigues me with its evolving complexities and the challenge to safeguard digital realms. Though my earlier passions included Blockchain and Web Design, I now find myself captivated by the ever-changing intricacies of cybersecurity.
+
+Beyond my technical pursuits, I relish the process of problem-solving. Crafting elegant solutions to pressing challenges is not just a professional endeavour for me; it is a personal passion.
 
 📫 You can reach me at riccardo.inghilleri@gmail.com
 
