@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"><a href="https://linkedin.com/in/riccardoinghilleri">I am Riccardo Inghilleri</a></h1>
-  <p align="center">MSc Student in Computer Science and Engineering at Polytechnic University of Milan | Blockchain Enthusiast</p>
+  <p align="center">MSc Student in Computer Science and Engineering at Polytechnic University of Milan | Alta Scuola Politecnica | Co-Founder & CTO at Pharme</p>
 </p>
 
 <p align="center">
