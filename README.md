@@ -1,11 +1,9 @@
 <p align="center">
   <h1 align="center"><a href="https://linkedin.com/in/riccardoinghilleri">I am Riccardo Inghilleri</a></h1>
-  <p align="center">MSc Student in Computer Science and Engineering at Polytechnic University of Milan | Alta Scuola Politecnica | Co-Founder & CTO at Pharme</p>
+  <p align="center">MSc in Computer Science and Engineering at Politecnico di Milano | Alta Scuola Politecnica | Ex Co-Founder & CTO at Pharme</p>
 </p>
 
 <p align="center">
-  <a href="https://www.riccardoinghilleri.com">Web Site</a> | 
-  <a href="https://instagram.com/riccardoinghilleri">Instagram</a> |
   <a href="https://linkedin.com/in/riccardoinghilleri">LinkedIn</a>
 </p>
 
@@ -13,11 +11,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
 
-🔭 At 23, I am navigating the dynamic landscape of Computer Science and Engineering as both a student and a tech entrepreneur. I proudly serve as the Co-Founder and Chief Technology Officer (CTO) of Pharme, a pioneering digital platform streamlining drug availability checks and facilitating pick-up bookings.
+🔭 At 24 years old, I am navigating the dynamic IT and engineering landscape as a student and a technology entrepreneur. I am proud to have co-founded and served as Chief Technology Officer (CTO) of Pharme, a cutting-edge digital platform that simplifies medication availability checks and facilitates pickup reservations.
 
-While my academic and entrepreneurial journey has exposed me to various facets of technology, lately, I have found myself drawn towards computer security, a discipline that intrigues me with its evolving complexities and the challenge to safeguard digital realms. Though my earlier passions included Blockchain and Web Design, I now find myself captivated by the ever-changing intricacies of cybersecurity.
+While my academic and entrepreneurial journey has exposed me to various facets of technology, lately, I have found myself drawn to cybersecurity and artificial intelligence, disciplines that intrigue me because of their evolving complexity and each needing the other to create more cutting-edge systems. Although my previous passions included Blockchain and Web Design, I now find myself fascinated by the evolving complexities of cybersecurity.
 
-Beyond my technical pursuits, I relish the process of problem-solving. Crafting elegant solutions to pressing challenges is not just a professional endeavour for me; it is a personal passion.
+Beyond my technical interests, I enjoy the problem-solving process. Creating elegant solutions to pressing challenges is not only a professional endeavour for me; it is a personal passion.
 
 📫 You can reach me at riccardo.inghilleri@gmail.com
 
